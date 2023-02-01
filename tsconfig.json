@@ -19,5 +19,8 @@
     "node_modules",
     "src/**/*.test.tsx",
     "src/**/*.stories.tsx",
-  ]
+  ],
+  "declaration": true,
+  "declarationDir": "types",
+  "emitDeclarationOnly": true
 }
