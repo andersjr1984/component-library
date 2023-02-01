@@ -2,7 +2,7 @@
   "name": "component-library",
   "version": "1.0.0",
   "description": "A personal component library",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "rollup -c",
     "build-storybook": "build-storybook",
